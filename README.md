@@ -6,7 +6,7 @@ Aqui você encontra meus desafios e projetos que realizei no BootCamp da **[Digi
 
 
 
-![dio.png](https://github.com/rickyfour/Projetos-DIO/blob/main/Assets/dio.png?raw=true align="center)![Developer.gif](https://github.com/rickyfour/Projetos-DIO/blob/main/Assets/Developer.gif?raw=true)
+![dio.png](https://github.com/rickyfour/Projetos-DIO/blob/main/Assets/dio.png?raw=true align="center) ![Developer.gif](https://github.com/rickyfour/Projetos-DIO/blob/main/Assets/Developer.gif?raw=true)
 
 
 
